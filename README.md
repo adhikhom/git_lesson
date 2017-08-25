@@ -33,3 +33,7 @@
  					16. if git bash more log use arrow down until END and then 'q' to normal
  
  					17.  git reset --hard  to removed stage area 
+
+ 					18. git reset <hash> <file name>
+
+ 					19. change to be comitted use git reset HEAD <file> to unstage
