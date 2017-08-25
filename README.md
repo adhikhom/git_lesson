@@ -19,3 +19,5 @@
  					8.git diff to see different before commit and then to commit 
  					9.git help to see all commands
  					10.git diff --staged
+
+ 					11.git diff HEAD~1
