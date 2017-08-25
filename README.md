@@ -28,5 +28,7 @@
 
  					14. git checkout master
 
- 					15. use 'git checkout master README.md' to undelete file(s) 
+ 					15. use 'git checkout master README.md' to undelete file(s)
+
+ 					16. if git bash more log use arrow down until END and then 'q' to normal
  
