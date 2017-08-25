@@ -37,4 +37,5 @@
  					18. git reset <hash> <file name>
 
  					19. change to be comitted use git reset HEAD <file> to unstage 
- 
+
+ 					20. git push origin master ('origin' is arias name or short name for referring to remote  github  and 'master' is arias name or shor name for referring to local files )
