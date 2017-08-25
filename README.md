@@ -26,4 +26,7 @@
 
  					13. git checkout HEAD~1 README.md (delete the last commit line will longer there)
 
- 					14. git checkout master 
+ 					14. git checkout master
+
+ 					15. use 'git checkout master README.md' to undelete file(s) 
+ 
