@@ -21,3 +21,5 @@
  					10.git diff --staged
 
  					11.git diff HEAD~<fill number stage behind like '4' and print stage all the way to 1 >
+
+ 					12. git diff <commit hash>
