@@ -36,7 +36,5 @@
 
  					18. git reset <hash> <file name>
 
- 					19. change to be comitted use git reset HEAD <file> to unstage
-
-
-This line for Test last commit use git reset <hash> <file.ext>
+ 					19. change to be comitted use git reset HEAD <file> to unstage 
+ 
