@@ -23,5 +23,3 @@
  					11.git diff HEAD~<fill number stage behind like '4' and print stage all the way to 1 >
 
  					12. git diff <commit hash>
-
- 					13. git checkout HEAD~1 README.md (delete the last commit line will longer there)
